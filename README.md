@@ -34,7 +34,8 @@ A personal cyberpunk-themed portfolio built with HTML, CSS, and JavaScript, feat
  └── 📄 README.md         # Documentation
 ```
 # ⚡ Setup & Usage
-	1.	Clone Repository
+1.	Clone Repository
+	
 ```bash
 git clone https://github.com/your-username/portfolio.git
 cd portfolio
@@ -51,21 +52,22 @@ npx live-server
 ⸻
 
 # 🎨 Customization
-	•	Update Hero Text: in index.html
+Update Hero Text: in index.html
 ```html
 <h1 class="glitch-text break-mobile" data-text="Cybersecurity Student">
    Cybersecurity Student
 </h1>
 ```
-Change to your roles (supports looping).
+# Change to your roles (supports looping).
 
 	•	Projects Section: replace images + links inside <section id="projects">.
 	•	Skills Section: update data-percent values inside style.css & script.js.
 	•	Contact Form: edit your Google Apps Script URL inside script.js:
+ 
 ```js
 const scriptURL = 'YOUR_GOOGLE_SCRIPT_URL';
 ```
-📱 Responsive Design
+# 📱 Responsive Design
 	•	Desktop: Full cyberpunk layout
 	•	Mobile:
 	•	Adjusted font sizes for glitch text
@@ -74,10 +76,13 @@ const scriptURL = 'YOUR_GOOGLE_SCRIPT_URL';
 
 ⸻
 
-####### 📩 Contact
-	•📧 Email: nandyalajashwanthreddy317@gmail.com
-	•🌐 GitHub: [@jashwanthreddy21](https://github.com/jashwanthreddy21/)
-	•	💼 LinkedIn: [Nandyala Jashwanth Reddy](https://www.linkedin.com/in/nandyala-jashwanth-reddy-49b4552bb/)
+# 📩 Contact
+
+	•   📧 Email: nandyalajashwanthreddy317@gmail.com
+
+	•   🌐 GitHub: [@jashwanthreddy21](https://github.com/jashwanthreddy21/)
+
+	•   💼 LinkedIn: [Nandyala Jashwanth Reddy](https://www.linkedin.com/in/nandyala-jashwanth-reddy-49b4552bb/)
 
 ⸻
 
