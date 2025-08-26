@@ -5,22 +5,22 @@ A personal cyberpunk-themed portfolio built with HTML, CSS, and JavaScript, feat
 ⸻
 
 # 🌟 Features
-	•	⚡ Glitch Hero Title with animated text rotation (Cybersecurity Student, Ethical Hacker, Web Developer)
-	•	🎭 Cyberpunk background (animated grid + gradient effects)
-	•	🖼 Responsive Design (optimized for desktop & mobile)
-	•	🔄 Rotating Text Animation (hero section headline cycles)
-	•	🏆 Skills Section with animated percentage bars
-	•	🛠 Tools Section with sliding card animations
-	•	💻 Projects Section with interactive flip cards
-	•	📩 Contact Form connected to Google Sheets via Apps Script
+•	⚡ Glitch Hero Title with animated text rotation (Cybersecurity Student, Ethical Hacker, Web Developer)
+•	🎭 Cyberpunk background (animated grid + gradient effects)
+•	🖼 Responsive Design (optimized for desktop & mobile)
+•	🔄 Rotating Text Animation (hero section headline cycles)
+•	🏆 Skills Section with animated percentage bars
+•	🛠 Tools Section with sliding card animations
+•	💻 Projects Section with interactive flip cards
+•	📩 Contact Form connected to Google Sheets via Apps Script
 
 ⸻
 
 # 🛠️ Technologies Used
-	•	Frontend: HTML5, CSS3, JavaScript (Vanilla)
-	•	Fonts: Orbitron, Rajdhani
-	•	Icons: Font Awesome
-	•	Hosting: Works with GitHub Pages, Netlify, or Vercel
+•	Frontend: HTML5, CSS3, JavaScript (Vanilla)
+•	Fonts: Orbitron, Rajdhani
+•	Icons: Font Awesome
+•	Hosting: Works with GitHub Pages, Netlify, or Vercel
 
 ⸻
 
@@ -60,35 +60,33 @@ Update Hero Text: in index.html
 ```
 # Change to your roles (supports looping).
 
-	•	Projects Section: replace images + links inside <section id="projects">.
-	•	Skills Section: update data-percent values inside style.css & script.js.
-	•	Contact Form: edit your Google Apps Script URL inside script.js:
+•	Projects Section: replace images + links inside <section id="projects">.
+•	Skills Section: update data-percent values inside style.css & script.js.
+•	Contact Form: edit your Google Apps Script URL inside script.js:
  
 ```js
 const scriptURL = 'YOUR_GOOGLE_SCRIPT_URL';
 ```
 # 📱 Responsive Design
-	•	Desktop: Full cyberpunk layout
-	•	Mobile:
-	•	Adjusted font sizes for glitch text
-	•	Special handling for long text (Cybersecurity Student breaks neatly)
-	•	Hamburger navigation menu
-
-⸻
-
-# 📩 Contact
-
-	•   📧 Email: nandyalajashwanthreddy317@gmail.com
-
-	•   🌐 GitHub: [@jashwanthreddy21](https://github.com/jashwanthreddy21/)
-
-	•   💼 LinkedIn: [Nandyala Jashwanth Reddy](https://www.linkedin.com/in/nandyala-jashwanth-reddy-49b4552bb/)
+•	Desktop: Full cyberpunk layout
+•	Mobile:
+•	Adjusted font sizes for glitch text
+•	Special handling for long text (Cybersecurity Student breaks neatly)
+•	Hamburger navigation menu
 
 ⸻
 
 # ⚖️ License
 
 MIT License – free to use & customize.
+
+# 📩 Contact
+
+•📧 Email: nandyalajashwanthreddy317@gmail.com
+
+•🌐 GitHub: [@jashwanthreddy21](https://github.com/jashwanthreddy21/)
+
+•💼 LinkedIn: [Nandyala Jashwanth Reddy](https://www.linkedin.com/in/nandyala-jashwanth-reddy-49b4552bb/)
 
 
 # Live Demo
