@@ -74,9 +74,9 @@ const scriptURL = 'YOUR_GOOGLE_SCRIPT_URL';
 
 ⸻
 
-# 📩 Contact
-	•	📧 Email: nandyalajashwanthreddy317@gmail.com
-	•	🌐 GitHub: [@jashwanthreddy21](https://github.com/jashwanthreddy21/)
+####### 📩 Contact
+	•📧 Email: nandyalajashwanthreddy317@gmail.com
+	•🌐 GitHub: [@jashwanthreddy21](https://github.com/jashwanthreddy21/)
 	•	💼 LinkedIn: [Nandyala Jashwanth Reddy](https://www.linkedin.com/in/nandyala-jashwanth-reddy-49b4552bb/)
 
 ⸻
@@ -87,4 +87,4 @@ MIT License – free to use & customize.
 
 
 # Live Demo
-click [Here](https://github.com/jashwanthreddy21/MyPortfolio/)
+click [Here](https://jashwanthreddy21.github.io/MyPortfolio/)
